@@ -5,6 +5,7 @@ Java, ООП, SOLID, Linux, Spring Boot, Spring Boot, Spring Security, Spring Da
 ### Мои проекты
 - Java, Spring Boot, JUnit, Test Containers, Docker [Кусовая работа "Сервис перевода денег"](https://github.com/SobSe/money_transfer_service)
 - Java, Spring Boot, Spring Data, JUnit, Test Containers, Docker [Дипломная работа "Облочное хранилище"](https://github.com/SobSe/cloud_storage)
+- Java, Spring Boot, Spring Data, Spring Security, JUnit, Test Containers, Docker, OAuth2 [Два микросервиса](https://github.com/SobSe/two-microservice.git)
 ### Сертификаты Нетологии
 - [Основы Java](./basic-java.pdf)
 - [Основы ООП](./oop-basics.pdf)
