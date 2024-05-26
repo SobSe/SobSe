@@ -1,7 +1,7 @@
 ### Привет!
 Я <b>Соболев Сергей</b>, начинающий разработчик на java.
 ### Мой стек
-Java, ООП, SOLID, Linux, Spring Boot, Spring Boot, Spring Security, Spring Data, Git, PostgreSQL, REST, Docker, Docker-compose, Maven, Gradle, JUnit, Mockito, Test Containers
+Java, ООП, SOLID, Linux, Spring Boot, Spring Security, Spring Data, Git, PostgreSQL, REST, Docker, Docker-compose, Maven, Gradle, JUnit, Mockito, Test Containers
 ### Мои проекты
 - Java, Spring Boot, JUnit, Test Containers, Docker [Кусовая работа "Сервис перевода денег"](https://github.com/SobSe/money_transfer_service)
 - Java, Spring Boot, Spring Data, JUnit, Test Containers, Docker [Дипломная работа "Облочное хранилище"](https://github.com/SobSe/cloud_storage)
